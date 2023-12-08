@@ -1,0 +1,7 @@
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.AssemblyInfo.cs
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.RazorAssemblyInfo.cache
+C:\Users\laptop\source\repos\log-filee\log-filee\obj\Debug\net6.0\log-filee.RazorAssemblyInfo.cs
